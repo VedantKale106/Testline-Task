@@ -129,15 +129,7 @@ vedantkale106-testline-task.git/
 - Quiz Submission: `https://api.jsonserve.com/rJvd7g`
 - Question Bank: `https://www.jsonkeeper.com/b/LLQT`
 
-## Data Structure
-- Quiz submissions include:
-  - User performance metrics
-  - Timing data
-  - Response mapping
-  - Question-level analytics
-
-- Question bank includes:
-  - Detailed questions
-  - Solutions
-  - Topic categorization
-  - Difficulty levels
+![Image](https://github.com/user-attachments/assets/cf13d25f-ae67-4ed0-93bd-0fb5f18026b1)
+![Image](https://github.com/user-attachments/assets/9b952286-6fd8-4a0e-a787-1860702b7707)
+![Image](https://github.com/user-attachments/assets/7fdf2b96-c381-4de1-b1ed-e753ad8db9c1)
+![Image](https://github.com/user-attachments/assets/49b22467-2bde-444b-974e-20d1b1a0c24b)
