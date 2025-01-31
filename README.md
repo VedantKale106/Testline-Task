@@ -1,3 +1,6 @@
+# Video Link (Screenshots are in the Bottom)
+https://drive.google.com/file/d/1qT9iVPBcSLwiJqQQEXn9peSjUhdvsTWA/view?usp=sharing
+
 # NEET Rank Prediction and College Eligibility
 
 This project uses a Random Forest Regressor model to predict the expected rank of a student based on their NEET marks. Additionally, it provides a list of medical colleges where the predicted rank falls within the opening and closing ranks.
